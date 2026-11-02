@@ -1,0 +1,6 @@
+print("===DATA SISWA===")
+print("Nama siswa:")
+print("Kelas:")
+print("Sekolah:")
+print("umur:")
+print("Nilai:")
